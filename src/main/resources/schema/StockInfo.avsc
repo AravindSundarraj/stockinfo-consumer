@@ -1,0 +1,17 @@
+{
+"namespace" : "com.group.kaka.stockinfoconsumer.domain",
+"type" : "record",
+"name" : "Stock",
+"fields" :[
+{"name" : "ticker" ,"type" : ["null","string"]},
+{"name" : "company" ,"type" : ["null","string"]},
+{"name" : "founded" ,"type" : ["null","string"]},
+{"name" : "ceo" ,"type" : ["null","string"]},
+{"name" : "employees" ,"type" : ["null","string"]},
+{"name" : "headQuarters" ,"type" : ["null","string"]},
+{"name" : "marketCapital" ,"type" : ["null","string"]},
+{"name" : "dividend" ,"type" : ["null","string"]}
+
+]
+
+}
